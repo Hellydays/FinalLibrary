@@ -6,8 +6,6 @@ import java.util.Scanner;
 import by.htp.library.dao.BookDao;
 import by.htp.library.dao.DaoFabrique;
 import by.htp.library.dao.implementation.DaoImplementation;
-import by.htp.library.entity.Book;
-import by.htp.library.entity.User;
 
 public class MainConsoleController {
 	
